@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "appName": "kumfungkitchen",
+    "style": "sass",
+    "postcss": true,
+    "generatedWithVersion": 3
+  }
+}
